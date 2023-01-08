@@ -14,4 +14,4 @@ Use keys for Sublime Text (https://github.com/CyberTitus/Crack-Sublime), VMWare 
 
 ===========================================================================================================================================================================
 
-If you chose the list version please ignore this the first part
+If you chose the list version please ignore this the first part.
